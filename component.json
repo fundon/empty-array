@@ -1,0 +1,10 @@
+{
+  "name": "empty-array",
+  "description": "Empty array",
+  "version": "1.0.0",
+  "keywords": ["empty", "array"],
+  "dependencies": {},
+  "scripts": [
+    "index.js"
+  ]
+}

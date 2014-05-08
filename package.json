@@ -1,6 +1,6 @@
 {
   "name": "empty-array",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "empty([2014, 6, 13]), Empty array",
   "main": "index.js",
   "scripts": {
